@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+shap
+lifelines
+imbalanced-learn
+google-generativeai
+pickle-mixin
